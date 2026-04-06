@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+scikit-learn
+spacy
+pandas
+joblib
+numpy
+vaderSentiment
